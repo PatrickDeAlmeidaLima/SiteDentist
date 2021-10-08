@@ -1,2 +1,2 @@
 # dente
- Projeto site dentista(html,css,java)
+ Projeto site dentista feito na faculdade(html,css,java)
